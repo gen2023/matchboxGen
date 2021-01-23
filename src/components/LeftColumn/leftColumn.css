@@ -1,0 +1,10 @@
+.contentLeft {
+    width: 24%;
+    background-color: rgba(0, 0, 0, 0.02);
+  }
+  .HeadingTitle {
+    background: gainsboro;
+    border-radius: 15px;
+    padding: 10px 0;
+    text-align: center;
+  }

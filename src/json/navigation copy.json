@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "heading": "Главная",
+    "link": "/",
+    "title":""    
+  },
+  {
+    "id": "2",
+    "heading": "Обо мне",
+    "link": "/about",
+    "title":"Обо мне"   
+  },
+  {
+    "id": "3",
+    "heading": "Статьи",
+    "link": "/articles",
+    "title":"статьи"   
+  },
+  {
+    "id": "4",
+    "heading": "Галерея",
+    "link":"/gallery",
+    "title":"Галлерея"    
+  },
+  {
+    "id": "5",
+    "heading": "Видео",
+    "link":"/news",
+    "title":"Новости"   
+  },
+  {
+    "id": "6",
+    "heading": "Контакты",
+    "link":"/contact",
+    "title":"Контакты"    
+  }
+]

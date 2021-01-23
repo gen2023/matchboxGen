@@ -1,0 +1,44 @@
+/*Home Page*/
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+
+/*AddImage*/
+.contentForm {
+  text-align: center;
+}
+
+.divTable {
+  display: table;
+  margin: 0 auto;
+}
+.divTableRow {
+  display: table-row;
+}
+.divTableHeading {
+  background-color: #eee;
+  display: table-header-group;
+}
+.divTableCell,
+.divTableHead {
+  border: 2px solid #999974;
+  display: table-cell;
+  padding: 10px;
+}
+.divTableHeading {
+  background-color: #eee;
+  display: table-header-group;
+  font-weight: bold;
+}
+.divTableFoot {
+  background-color: #eee;
+  display: table-footer-group;
+  font-weight: bold;
+}
+.divTableBody {
+  display: table-row-group;
+}
+.buttonAdd {
+  padding-top: 20px;
+}
